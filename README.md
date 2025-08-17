@@ -8,7 +8,7 @@ I'm Chandrasekar S
 Location : Infront of my PC(99%)
 elsewhere:
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca3b0d61-971a-400b-bcbb-a644eb5017e8" /> www.linkedin.com/in/chandrasekar-sivaguru11
-
+'''
 
 <!--
 **ChandrasekarS22008273/ChandrasekarS22008273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
