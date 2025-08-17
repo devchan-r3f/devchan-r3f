@@ -1,14 +1,18 @@
-## Hi there 👋
-I'm Chandrasekar S 
+## hi , yes you came into the right page
+Before introducing myself , let's play a little game.
+Join in this. I'm waiting for you for a very long time.
 
+...game under construction
 
+(visit back on october 2025)
 
-'''
 ## where to find me?
-Location : Infront of my PC(99%)
-elsewhere:
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca3b0d61-971a-400b-bcbb-a644eb5017e8" /> www.linkedin.com/in/chandrasekar-sivaguru11
-'''
+<b>Location : Infront of my PC(99% of the time)</b>
+
+Elsewhere:
+
+<img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/ca3b0d61-971a-400b-bcbb-a644eb5017e8" /> www.linkedin.com/in/chandrasekar-sivaguru11
+
 
 <!--
 **ChandrasekarS22008273/ChandrasekarS22008273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
