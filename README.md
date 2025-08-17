@@ -13,6 +13,9 @@ Elsewhere:
 
 <img width="14" height="14" alt="image" src="https://github.com/user-attachments/assets/ca3b0d61-971a-400b-bcbb-a644eb5017e8" /> www.linkedin.com/in/chandrasekar-sivaguru11
 
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/3c471576-af35-45c8-88f2-d811edc823dd" />chandrusivaguru@gmail.com
+
+
 
 This is how I started my web-dev journey. haha
 
