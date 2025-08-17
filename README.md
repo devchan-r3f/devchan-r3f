@@ -1,6 +1,6 @@
 ## hi , yes you came into the right page
 Before introducing myself , let's play a little game.
-Join in this. I'm waiting for you for a very long time.
+
 
 ...game under construction
 
