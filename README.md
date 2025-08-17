@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/56aceb0a-43da-4f8c-94b9-4949ef1bbd55" />## Hi there 👋
+## Hi there 👋
 I'm Chandrasekar S 
 
 
@@ -7,7 +7,7 @@ I'm Chandrasekar S
 ## where to find me?
 Location : Infront of my PC(99%)
 elsewhere:
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/ca3b0d61-971a-400b-bcbb-a644eb5017e8" /> www.linkedin.com/in/chandrasekar-sivaguru11
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca3b0d61-971a-400b-bcbb-a644eb5017e8" /> www.linkedin.com/in/chandrasekar-sivaguru11
 
 
 <!--
