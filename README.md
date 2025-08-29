@@ -1,11 +1,9 @@
 ## hi , yes you came into the right page
 Before introducing myself , let's play a little game.
 
-
-https://github.com/user-attachments/assets/a05ec399-da4b-45a2-b9fb-085a2a00a7b0
-
-
 ...game under construction
+
+![image](https://github.com/user-attachments/assets/cb998395-0afd-4669-9773-b443c03c904f)
 
 (visit back on october 2025)
 
