@@ -3,7 +3,7 @@ Before introducing myself , let's play a little game.
 
 🎮Game under construction
 
-<img src="https://github.com/user-attachments/assets/cb998395-0afd-4669-9773-b443c03c904f" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/cb998395-0afd-4669-9773-b443c03c904f" width="300" height="300">
 
 (Come back in October 2025 — if the server doesn’t crash before that)
 
