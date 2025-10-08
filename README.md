@@ -5,7 +5,7 @@ Before introducing myself , let's play a little game.
 
 <img src="https://github.com/user-attachments/assets/cb998395-0afd-4669-9773-b443c03c904f" width="300" height="300">
 
-(Come back in October 2025 — if the server doesn’t crash before that)
+(Come back in November 2025 — if the server doesn’t crash before that)
 
 ## where to find me?
 <b>Location : Infront of my PC(99% of the time)</b>
